@@ -30,6 +30,7 @@ main {
     flex-wrap: wrap;
     background-color: #FFB344;
     padding: 10px;
+    height: 100vh;
 }
 
 article {
@@ -44,4 +45,11 @@ aside {
     background-color: bisque;
     margin: 5px;
     padding: 10px;
+}
+
+footer {
+    background-color: #FFF8E5;
+    padding: 10px;
+    display: flex;
+    justify-content: center;    
 }
